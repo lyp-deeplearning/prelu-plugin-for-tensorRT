@@ -1,0 +1,3 @@
+/home/lyp/project/tf_insightface/build/CMakeFiles/rebuild_cache.dir
+/home/lyp/project/tf_insightface/build/CMakeFiles/edit_cache.dir
+/home/lyp/project/tf_insightface/build/CMakeFiles/main.dir
